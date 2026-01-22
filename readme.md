@@ -1,0 +1,15 @@
+# Day 1
+
+## **Phase 1: React Fundamentals**
+
+### **1. Introduction to React**
+
+- What is React & why use it
+- SPA (Single Page Applications) vs traditional websites
+- React DOM vs regular DOM
+
+### **2. Setting up a React Project**
+
+- Using CDN link to setup project from scratch
+- Using **Vite or Parcel** for faster setup
+- Folder structure best practices
