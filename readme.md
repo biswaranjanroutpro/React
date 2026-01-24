@@ -1,5 +1,7 @@
 # Day 1
 
+# Day 2
+
 ## **Phase 1: React Fundamentals**
 
 ### **1. Introduction to React**
@@ -13,3 +15,11 @@
 - Using CDN link to setup project from scratch
 - Using **Vite or Parcel** for faster setup
 - Folder structure best practices
+
+# Day 3.1
+
+### **1. Manually set up all the dependeincies using vite**
+
+# Day 3.1
+
+### **1. Manually set up all the dependeincies using vite**
