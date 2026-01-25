@@ -23,3 +23,7 @@
 # Day 3.1
 
 ### **1. Manually set up all the dependeincies using vite**
+
+# Day 4.1 && 4.2
+
+### **1. Learn why the use state worklike this underthe hood**
