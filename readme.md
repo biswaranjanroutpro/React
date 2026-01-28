@@ -27,3 +27,7 @@
 # Day 4.1 && 4.2
 
 ### **1. Learn why the use state worklike this underthe hood**
+
+# Day 5
+
+### \*\*1. Learn about useEffect
